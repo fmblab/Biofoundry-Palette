@@ -1,6 +1,6 @@
 # Biofoundry palette
 <p align = "center">
-  <img src="https://lh6.googleusercontent.com/RMQ685oE1KNXtYFycDT8TXQ2h-E4pytpEjyQn6KkJO24BlSbD-LkGOoSz-3K-fYbku0_jwPXmZiVPcFrMjNatgI=w16383"/>
+  <img src="https://lh6.googleusercontent.com/VekUq4tnfzO4vXNuJ7vPwTQcfIQSrxwENfGXRKKwdtDGWLTLwFsMjaqm1XEbHBTxZ7bso1ksD0bbp_BKH36bmL4=w16383"/>
  </p>
 
 Biofoundry Palette is a python-based planning-assistance software for synthetic biology applications in an automated workflow and biofoundry facilities, enabling automated high-throughput experiments. The program in this repository is for liquid handler-based experimentation and operation in the biofoundry workflow. Step 6~11 is still undergoing in volume and positional optimization. Further update will be uploaded as soon as possible. If you want to get new on the update, please contact the [BioFoundry Research Center](https://swb.skku.edu/BioFoundryRC/index.do).
@@ -14,7 +14,7 @@ Biofoundry Palette Program does not require any additional installation. In orde
 - ORDER ID: place the name of ther order identification
 - ORDER VOLUME: place the amount of the order
 - NEW/OLD WELL: choice of using old/used well
-- PLATE ID: place the identification of old/used well
+- WELL ID: place the identification of old/used well
 - WELL POSITION: starting column position of the well
 - STEP: steps (step 11 is golden gate assembly)
 - ORDER DATE: date of order is placed

@@ -5,7 +5,7 @@
  <p align = "center">
    </p>
    
-   <center><img src="/Code-v2-BFC/skybiofoundry.jpg" width="300" height="300"></center>
+   <center><img src="/Code-v2-BFC/skybiofoundry.jpg"></center>
 
 
 Biofoundry Palette is a python-based planning-assistance software for synthetic biology applications in an automated workflow and biofoundry facilities, enabling automated high-throughput experiments. The program in this repository is for liquid handler-based experimentation and operation in the biofoundry workflow. Step 6~11 is still undergoing in volume and positional optimization. Further update will be uploaded as soon as possible. If you want to get new on the update, please contact the [BioFoundry Research Center](https://swb.skku.edu/BioFoundryRC/index.do).

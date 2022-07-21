@@ -72,20 +72,20 @@ I[save_data.py]--insert information-->J((past_order.xlsx))
 ![Step_figure](Code-v2-BFC/Step_figure1B.jpg)
 
 ## Examples
-**Step1**
+**Step1:PCR**
 ![Step_figure](Code-v2-BFC/figure1.png) 
 
-**Step2**
+**Step2:Golden gate assembly**
 ![Step_figure](Code-v2-BFC/figure2.PNG)
 
-**Step3**
+**Step3:Transformation**
 
 ![Step_figure](Code-v2-BFC/figure3.PNG)
 
-**Step4**
+**Step4: Colony selection & inoculation**
 ![Step_figure](Code-v2-BFC/figure4.PNG)
 
-**Step5**
+**Step5: Plasmid isolation**
 ![Step_figure](Code-v2-BFC/figure5.PNG)
 
 ## Publishing

@@ -1,5 +1,8 @@
 # Biofoundry palette
-   
+   .center {
+  display: block;
+  margin: auto;
+}
    <center><img src="/Code-v2-BFC/skybiofoundry.jpg"></center>
 
 

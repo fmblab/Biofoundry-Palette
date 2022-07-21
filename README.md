@@ -1,9 +1,4 @@
 # Biofoundry palette
-<p align = "center">
-  <img src="https://lh6.googleusercontent.com/VekUq4tnfzO4vXNuJ7vPwTQcfIQSrxwENfGXRKKwdtDGWLTLwFsMjaqm1XEbHBTxZ7bso1ksD0bbp_BKH36bmL4=w16383"/>
- </p>
- <p align = "center">
-   </p>
    
    <center><img src="/Code-v2-BFC/skybiofoundry.jpg"></center>
 

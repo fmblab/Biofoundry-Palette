@@ -68,11 +68,13 @@ I[save_data.py]--insert information-->J((past_order.xlsx))
   <img src="https://user-images.githubusercontent.com/57700611/166395788-2004a085-4ca9-4b36-a466-c148f91bd37d.png"/>
  </p>
 
+## Step figure
+![Step_figure](Code-v2-BFC/Step_figure1B.jpg)
+
 ## Publishing
 The repository is set up to prohibit commits directly to the main branch. GitHub PRs must be approved by at least one other developer before they can be merged into main branch.
 
 ## Additional Information
 To learn more about Biofoundry Palette, including program edittaion instructions and documentation, visit [BioFoundry Research Center](https://swb.skku.edu/BioFoundryRC/index.do).
 
-STEP
-![Step_figure](Code-v2-BFC/Step_figure1B.jpg)
+

@@ -72,10 +72,10 @@ I[save_data.py]--insert information-->J((past_order.xlsx))
 ![Step_figure](Code-v2-BFC/Step_figure1B.jpg)
 
 ## Examples
-![Step_figure](Code-v2-BFC/figure1.png) ![Step_figure](Code-v2-BFC/figure2)
-![Step_figure](Code-v2-BFC/figure3)
-![Step_figure](Code-v2-BFC/figure4)
-![Step_figure](Code-v2-BFC/figure5)
+![Step_figure](Code-v2-BFC/figure1.png) ![Step_figure](Code-v2-BFC/figure2.png)
+![Step_figure](Code-v2-BFC/figure3.png)
+![Step_figure](Code-v2-BFC/figure4.png)
+![Step_figure](Code-v2-BFC/figure5.png)
 
 ## Publishing
 The repository is set up to prohibit commits directly to the main branch. GitHub PRs must be approved by at least one other developer before they can be merged into main branch.

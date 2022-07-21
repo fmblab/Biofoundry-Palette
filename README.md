@@ -73,10 +73,10 @@ I[save_data.py]--insert information-->J((past_order.xlsx))
 
 ## Examples
 **Step1:PCR**
-![Step_figure](Code-v2-BFC/figure1.png) 
+![Step_figure](Code-v2-BFC/figure_1.png) 
 
 **Step2:Golden gate assembly**
-![Step_figure](Code-v2-BFC/figure2.PNG)
+![Step_figure](Code-v2-BFC/figure_2.png)
 
 **Step3:Transformation**
 
@@ -86,7 +86,7 @@ I[save_data.py]--insert information-->J((past_order.xlsx))
 ![Step_figure](Code-v2-BFC/figure_4.png)
 
 **Step5: Plasmid isolation**
-![Step_figure](Code-v2-BFC/figure5.PNG)
+![Step_figure](Code-v2-BFC/figure_5.png)
 
 ## Publishing
 The repository is set up to prohibit commits directly to the main branch. GitHub PRs must be approved by at least one other developer before they can be merged into main branch.

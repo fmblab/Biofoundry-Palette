@@ -74,4 +74,5 @@ The repository is set up to prohibit commits directly to the main branch. GitHub
 ## Additional Information
 To learn more about Biofoundry Palette, including program edittaion instructions and documentation, visit [BioFoundry Research Center](https://swb.skku.edu/BioFoundryRC/index.do).
 
+STEP
 ![Step_figure](Code-v2-BFC/Step_figure.jpg)

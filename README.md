@@ -83,7 +83,7 @@ I[save_data.py]--insert information-->J((past_order.xlsx))
 ![Step_figure](Code-v2-BFC/figure_3.png)
 
 **Step4: Colony selection & inoculation**
-![Step_figure](Code-v2-BFC/figure4.PNG)
+![Step_figure](Code-v2-BFC/figure_4.png)
 
 **Step5: Plasmid isolation**
 ![Step_figure](Code-v2-BFC/figure5.PNG)

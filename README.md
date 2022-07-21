@@ -11,7 +11,7 @@ Biofoundry Palette Program does not require any additional installation. In orde
 
 **Operation Instruction**
 - OPERATOR: place the name of the person running the machine
-- USER: place the name of the customer
+- USER: place the name of the user
 - ORDER ID: place the name of ther order identification
 - ORDER VOLUME: place the amount of the order
 - NEW/OLD WELL: choice of using old/used well

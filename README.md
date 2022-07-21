@@ -72,7 +72,7 @@ I[save_data.py]--insert information-->J((past_order.xlsx))
 ![Step_figure](Code-v2-BFC/Step_figure1B.jpg)
 
 ## Examples
-![Step_figure](Code-v2-BFC/figure1) ![Step_figure](Code-v2-BFC/figure2)
+![Step_figure](Code-v2-BFC/figure1.png) ![Step_figure](Code-v2-BFC/figure2)
 ![Step_figure](Code-v2-BFC/figure3)
 ![Step_figure](Code-v2-BFC/figure4)
 ![Step_figure](Code-v2-BFC/figure5)

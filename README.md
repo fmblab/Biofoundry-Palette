@@ -41,7 +41,7 @@ The following commands is to be executed in Windows Powershell
 | ----------- | ----------- |
 | Windows | pip install tkcalendar |
 
-[tkcalendar](https://docs.python.org/ko/3/library/tkinter.html)
+[tkinter](https://docs.python.org/ko/3/library/tkinter.html)
 | OS | Command |
 | ----------- | ----------- |
 | Windows | pip install tkinter |

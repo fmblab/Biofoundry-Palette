@@ -68,7 +68,7 @@ I[save_data.py]--insert information-->J((past_order.xlsx))
   <img src="https://user-images.githubusercontent.com/57700611/166395788-2004a085-4ca9-4b36-a466-c148f91bd37d.png"/>
  </p>
 
-## Step figure
+## Step information
 ![Step_figure](Code-v2-BFC/Step_figure1B.jpg)
 
 ## Publishing
